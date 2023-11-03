@@ -1,0 +1,15 @@
+C:\Users\yungv\bootcamp-codingdojo\csharp\LinqEruption\bin\Debug\net7.0\LinqEruption.exe
+C:\Users\yungv\bootcamp-codingdojo\csharp\LinqEruption\bin\Debug\net7.0\LinqEruption.deps.json
+C:\Users\yungv\bootcamp-codingdojo\csharp\LinqEruption\bin\Debug\net7.0\LinqEruption.runtimeconfig.json
+C:\Users\yungv\bootcamp-codingdojo\csharp\LinqEruption\bin\Debug\net7.0\LinqEruption.dll
+C:\Users\yungv\bootcamp-codingdojo\csharp\LinqEruption\bin\Debug\net7.0\LinqEruption.pdb
+C:\Users\yungv\bootcamp-codingdojo\csharp\LinqEruption\obj\Debug\net7.0\LinqEruption.csproj.AssemblyReference.cache
+C:\Users\yungv\bootcamp-codingdojo\csharp\LinqEruption\obj\Debug\net7.0\LinqEruption.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yungv\bootcamp-codingdojo\csharp\LinqEruption\obj\Debug\net7.0\LinqEruption.AssemblyInfoInputs.cache
+C:\Users\yungv\bootcamp-codingdojo\csharp\LinqEruption\obj\Debug\net7.0\LinqEruption.AssemblyInfo.cs
+C:\Users\yungv\bootcamp-codingdojo\csharp\LinqEruption\obj\Debug\net7.0\LinqEruption.csproj.CoreCompileInputs.cache
+C:\Users\yungv\bootcamp-codingdojo\csharp\LinqEruption\obj\Debug\net7.0\LinqEruption.dll
+C:\Users\yungv\bootcamp-codingdojo\csharp\LinqEruption\obj\Debug\net7.0\refint\LinqEruption.dll
+C:\Users\yungv\bootcamp-codingdojo\csharp\LinqEruption\obj\Debug\net7.0\LinqEruption.pdb
+C:\Users\yungv\bootcamp-codingdojo\csharp\LinqEruption\obj\Debug\net7.0\LinqEruption.genruntimeconfig.cache
+C:\Users\yungv\bootcamp-codingdojo\csharp\LinqEruption\obj\Debug\net7.0\ref\LinqEruption.dll
